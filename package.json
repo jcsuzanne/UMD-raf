@@ -1,0 +1,13 @@
+{
+  "name": "UMD-raf",
+  "title":"UMD Raf",
+  "version": "1.0.0",
+  "description": "Request Animation Frame with UMD wrapper",
+  "main": "src/umd-raf.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcsuzanne/UMD-raf"
+  },
+  "author": "jean-christophe suzanne",
+  "license": "MIT"
+}
